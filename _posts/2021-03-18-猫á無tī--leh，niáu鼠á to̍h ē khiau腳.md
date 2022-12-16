@@ -23,7 +23,7 @@ Chia-ê出生年月日，仙--ê定tio̍h án-ne問：你siùⁿ siáⁿ？Tó c
 
 故事講完，咱來看一件新聞，聽講chit pái台中市長張溫鷹出國期間，市府大大細細ê員工上班lóng chiâⁿ正常，kap平常時á kāng款，這實在tio̍h kā in o-ló致敬，民主時代，公僕為百姓服務辦公事，本來to̍h是依法照辦，ná tio̍h市長有tī-leh監督chiah boeh做--neh?親像khah早án-ne，「猫á無tī--leh，niáu鼠á to̍h ē khiau腳」。Án-ne，nā tn̄g tio̍h做主管--ê一日走pha-pha，in ê辦公廳m̄ tio̍h駱駝--ê駱駝，溜--ê溜--ê，買菜--ê去買菜，看股市場--ê去看股市。公務人員公開去bú ka-tī ê錢元，nā án-ne chit-ê社會註定腐敗，食虧艱苦註定是咱ê戇百姓。
 
-台中市政府有chit款民主素養，照步來ê員工kap市長大姊，小弟tī-chia尊敬恁，向恁敬禮！
+台中市政府有chit款民主素養，照步來ê員工kap市長大姊，小弟tī-chia尊敬恁，kā恁敬禮！
 
  
 ### 【註解】
