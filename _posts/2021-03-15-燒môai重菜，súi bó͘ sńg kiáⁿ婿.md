@@ -1,5 +1,5 @@
 ---
-chapter: 鹹酸甜第2冊
+chapter: 鹹酸甜第3冊
 title: 015. 燒môai重菜，súi bó͘ sńg kiáⁿ婿
 author: Siau Lah-jih
 date: 2021-03-15
