@@ -1,5 +1,5 @@
 ---
-chapter: 鹹酸甜第2冊
+chapter: 鹹酸甜第3冊
 title: 013. Tī厝，cha-bó͘-kiáⁿ皇帝；嫁出，cha-bó͘-kán ta-ke
 author: Siau Lah-jih
 date: 2021-03-13
