@@ -36,6 +36,6 @@ Boeh ná ē，食kah老學kah老，應該tio̍h kā恁鼓勵，o-ló都bē赴，
 |見笑|Kiàn-siàu，『害羞』。|
 |O-ló都bē赴|『誇獎都來不及』。|
 |Chóaⁿ thang|Ná ē-sái--chit。|
-|落下頦|Làu-ē-hâi『掉下巴』。|
+|落下頦|Làu-ē-hâi，『掉下巴』。|
 |Chhân-chhân|『索性、乾脆』。|
 |有夠khong|有夠『傻瓜』。|
