@@ -27,7 +27,7 @@ Boeh án-chóaⁿ雕，這to̍h是教育方法ê分寸，雕siuⁿ過pōng是體
 |雕|Tiau，『使他彎曲』。|
 |Ut bē khiau|『折不彎曲』。|
 |Lún bē-tiâu|『忍不住』。|
-|愛之深，責之切|Ái chi chhim，chek chi chhiat。|
+|愛之深，責之切|Ài chi chhim，chek chi chhiat。|
 |一欉|『一棵』。|
 |榕á|Chhêng-á。|
 |Giàng-sâ-sâ|『枝椏亂長』。|
