@@ -11,7 +11,7 @@ toc: true
 
 ## 〈122〉
 # 人是有事，chiah求佛；人是有煩惱，chiah ē去求佛
-> **CLâng sī ū sū, chiah kiû pu̍t；Lâng sī ū hoân-ló, chiah ē khì kiû pu̍t**
+> **Lâng sī ū sū, chiah kiû pu̍t；Lâng sī ū hoân-ló, chiah ē khì kiû pu̍t**
  
 Gín-á poa̍h倒叫阿娘，che大概是人ê本能、天性，人ùi老母ê子宮孕育，阿母ê子宮to̍h是咱ê性命源頭，咱有災難，m̄呼救賜命之母，boeh叫siáⁿ人kā咱救命--leh！
 
