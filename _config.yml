@@ -1,16 +1,16 @@
 # Configurations
-title:            《台灣俗語鹹酸甜》第1冊
+title:            《台灣俗語鹹酸甜》第3冊
 longtitle:        Tâi-oân Sio̍k-gí Kiâm-sng-tiⁿ (台灣俗語鹹酸甜)
 author:           Siau Lah-jih
 email:            
 description: >
-  Tâi-oân Sio̍k-gí Kiâm-sng-tiⁿ《台灣俗語鹹酸甜》第1冊
+  Tâi-oân Sio̍k-gí Kiâm-sng-tiⁿ《台灣俗語鹹酸甜》第3冊
 
 version:          2.0
 gitbook_version:  3.2.3
 
 url:              'https://siaulahjih.github.io'
-baseurl:          '/KiamsngtinnKangteng'
+baseurl:          '/KiamSngTinn3'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
