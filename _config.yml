@@ -1,23 +1,23 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            《台灣俗語鹹酸甜》第1冊
+longtitle:        Tâi-oân Sio̍k-gí Kiâm-sng-tiⁿ (台灣俗語鹹酸甜)
+author:           Siau Lah-jih
+email:            
 description: >
-  Build Jekyll site with the GitBook style.
+  Tâi-oân Sio̍k-gí Kiâm-sng-tiⁿ《台灣俗語鹹酸甜》第1冊
 
-version:          1.0
+version:          2.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://siaulahjih.github.io'
+baseurl:          '/KiamsngtinnKangteng'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
 remote_theme: sighingnow/jekyll-gitbook
 
 toc:
-  enabled: true
+  enabled: false
   h_min:   1
   h_max:   3
 
@@ -35,13 +35,15 @@ kramdown:
   syntax_highlighter:     rouge
   syntax_highlighter_opts:
     guess_lang:           true
+  typographic_symbols:
+    ndash: --
 
 syntax_highlighter_style: colorful
 
 markdown_ext:             markdown,mkdown,mkdn,mkd,md
 
 # Permalinks
-permalink:                /:categories/:year-:month-:day-:title:output_ext
+permalink:                /:categories/:month-:day:output_ext
 
 # Disqus comments
 # disqushandler:            sighingnow
@@ -58,9 +60,8 @@ collections:
     permalink: /:collection/:path/
 
 ordered_collections:
-  - posts
   - pages
-  - others
+  - posts
 
 page_width: 800px
 
@@ -72,3 +73,10 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+tracker:
+  google_analytics: "G-XG4HSSM1PZ"
+
+extra_css: extra_css.css
+extra_header_js: extra_header_js.js
+extra_footer_js: extra_footer_js.js
